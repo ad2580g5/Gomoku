@@ -1,4 +1,4 @@
-# Gomoku
+# Gomoku 2018/12-2019/1
 1
 	My purpose:To review OOP.
 2
