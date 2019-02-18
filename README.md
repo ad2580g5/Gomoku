@@ -1,5 +1,4 @@
-# 
-Gomoku
+# Gomoku
 1
 	My purpose:To review OOP.
 2
